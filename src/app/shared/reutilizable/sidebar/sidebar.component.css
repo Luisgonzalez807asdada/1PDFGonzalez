@@ -1,0 +1,9 @@
+h2 {
+    height: 82vh;
+    background-color: #C4D7B2;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 82vh;
+}
